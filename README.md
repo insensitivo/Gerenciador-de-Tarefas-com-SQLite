@@ -16,6 +16,6 @@ Projeto em Python utilizando SQLite para persistência de dados
 - Remover tarefas
 - Persistência em banco de dados
 
-## Como executar
+## Execute
 
 python main.py
